@@ -1,0 +1,16 @@
+ip privada máquina virtual:
+	inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+
+ip pública:
+	inet addr:127.0.0.1		
+
+
+dirección MAC:
+	HWaddr 08:00:27:bb:4f:52
+
+
+Las direcciones ip pública de ambas máquinas (HOST y MV), son iguales. Ambas se conectana internet a través del mismo dispositivo (router).
+
+Las ip privadas son diferentes, cada dispositivo que se conecta a la a red privada (local), utiliza una direccion ip. 
+
+
